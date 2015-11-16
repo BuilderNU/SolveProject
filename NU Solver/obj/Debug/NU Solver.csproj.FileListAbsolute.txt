@@ -1,0 +1,10 @@
+D:\Solve\NU Solver\NU Solver\bin\Debug\NU Solver.exe
+D:\Solve\NU Solver\NU Solver\bin\Debug\NU Solver.pdb
+D:\Solve\NU Solver\NU Solver\obj\Debug\NU_Solver.login.resources
+D:\Solve\NU Solver\NU Solver\obj\Debug\NU_Solver.Properties.Resources.resources
+D:\Solve\NU Solver\NU Solver\obj\Debug\NU Solver.csproj.GenerateResource.Cache
+D:\Solve\NU Solver\NU Solver\obj\Debug\NU Solver.exe
+D:\Solve\NU Solver\NU Solver\obj\Debug\NU Solver.pdb
+D:\Solve\NU Solver\NU Solver\obj\Debug\NU Solver.csprojResolveAssemblyReference.cache
+D:\Solve\NU Solver\NU Solver\obj\Debug\NU_Solver.File_List.resources
+D:\Solve\NU Solver\NU Solver\obj\Debug\NU_Solver.SolveWindow.resources
