@@ -25,6 +25,7 @@ namespace NU_Solver
         SqlDataAdapter da = new SqlDataAdapter();
         public E_solve(string filename, string username, string sub, login caller, bool needToSpan = false)
         {
+            //test
             this.filename = filename;
             this.sub_code = sub;
             this.username = username;

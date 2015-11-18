@@ -19,3 +19,22 @@ D:\Solve\NU Solver\NU Solver\obj\Release\NU_Solver.E_solve.resources
 D:\Solve\NU Solver\NU Solver\obj\Release\NU_Solver.upload.resources
 E:\gitHub\NU Solver\NU Solver\obj\Release\NU Solver.exe
 E:\gitHub\NU Solver\NU Solver\obj\Release\NU Solver.pdb
+C:\Users\admin\Desktop\gitHub\SolveProject\NU Solver\obj\Release\NU Solver.exe
+C:\Users\admin\Desktop\gitHub\SolveProject\NU Solver\obj\Release\NU Solver.pdb
+C:\Users\admin\Desktop\gitHub\SolveProject\NU Solver\bin\Release\NU Solver.exe
+C:\Users\admin\Desktop\gitHub\SolveProject\NU Solver\bin\Release\NU Solver.pdb
+C:\Users\admin\Desktop\gitHub\SolveProject\NU Solver\bin\Release\System.Data.dll
+C:\Users\admin\Desktop\gitHub\SolveProject\NU Solver\bin\Release\System.Deployment.dll
+C:\Users\admin\Desktop\gitHub\SolveProject\NU Solver\bin\Release\System.dll
+C:\Users\admin\Desktop\gitHub\SolveProject\NU Solver\bin\Release\System.Drawing.dll
+C:\Users\admin\Desktop\gitHub\SolveProject\NU Solver\bin\Release\System.Windows.Forms.dll
+C:\Users\admin\Desktop\gitHub\SolveProject\NU Solver\bin\Release\System.Xml.dll
+C:\Users\admin\Desktop\gitHub\SolveProject\NU Solver\obj\Release\NU Solver.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\gitHub\SolveProject\NU Solver\obj\Release\NU_Solver.E_solve.resources
+C:\Users\admin\Desktop\gitHub\SolveProject\NU Solver\obj\Release\NU_Solver.File_List.resources
+C:\Users\admin\Desktop\gitHub\SolveProject\NU Solver\obj\Release\NU_Solver.LithoCorrection.resources
+C:\Users\admin\Desktop\gitHub\SolveProject\NU Solver\obj\Release\NU_Solver.SolveWindow.resources
+C:\Users\admin\Desktop\gitHub\SolveProject\NU Solver\obj\Release\NU_Solver.login.resources
+C:\Users\admin\Desktop\gitHub\SolveProject\NU Solver\obj\Release\NU_Solver.Properties.Resources.resources
+C:\Users\admin\Desktop\gitHub\SolveProject\NU Solver\obj\Release\NU_Solver.upload.resources
+C:\Users\admin\Desktop\gitHub\SolveProject\NU Solver\obj\Release\NU Solver.csproj.GenerateResource.Cache
