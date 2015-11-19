@@ -20,6 +20,7 @@ namespace NU_Solver
 
         private void upload_Click(object sender, EventArgs e)
         {
+            //alamin
             label2.Text = "Processing...";
             DirectoryInfo dr = new DirectoryInfo(folder);
             for (int i = 0; i < dr.GetFiles().Length; i++)
